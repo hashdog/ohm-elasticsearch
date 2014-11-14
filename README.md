@@ -1,4 +1,4 @@
-# Ohm::Elasticsearch
+# Ohm::Elasticsearch [![Gem Version](https://badge.fury.io/rb/ohm-elasticsearch.svg)](http://badge.fury.io/rb/ohm-elasticsearch) [![Code Climate](https://codeclimate.com/github/hashdog/ohm-elasticsearch/badges/gpa.svg)](https://codeclimate.com/github/hashdog/ohm-elasticsearch)
 
 Very small Ruby implementation for Elasticsearch (https://github.com/elasticsearch) and OHM (https://github.com/soveran/ohm).
 
